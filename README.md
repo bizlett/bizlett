@@ -6,9 +6,9 @@
 
 👀 I’m interested in full stack development overall. Developing new interests as I learn!
 
-⛰️ Getting out to the Welsh mountains, walking and wild camping with my husband
-
 🏊‍♀️ Heading to shore for a sunrise swim is how I start the day
+
+⛰️ Nothing better to clear my head than getting out to the Welsh mountains, walking and wild camping with my husband
 
 🍽️ Meals out are how I like to unwind - the more unusual the food, the better!
 
