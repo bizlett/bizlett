@@ -15,31 +15,31 @@
 📫 How to reach me: here!
 
 ### **Languages**
-- HTML 
-- CSS 
-- Javascript 
-- Python
+![HTML](https://img.shields.io/static/v1?label=HTML&message=5&style=flat&color=E34F26&logo=html5)
+![CSS](https://img.shields.io/static/v1?label=CSS&message=3&style=flat&color=1572B6&logo=css3)
+![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=flat&color=F7DF1E&logo=JavaScript)
+![Python](https://img.shields.io/static/v1?label=Python&message=3&style=flat&color=3776AB&logo=PYTHON)
 
 ### **Libraries & Frameworks**
-- Flask 
-- Django 
-- JQuery
+![Flask](https://img.shields.io/static/v1?label=Flask&message=1.1.2&style=flat&color=000000&logo=flask)
+![Django](https://img.shields.io/static/v1?label=Django&message=3.0.8&style=flat&color=092E20&logo=django)
+![JQuery](https://img.shields.io/static/v1?label=JQuery&message=3.5.1&style=flat&color=0769AD&logo=jquery)
 
 ### **Databases**
-- MongoDB 
-- MySQL
+![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=4.2.8&style=flat&color=47A248&logo=mongodb)
+![MySQL](https://img.shields.io/static/v1?label=MySQL&message=8&style=flat&color=4479A1&logo=mysql)
 
 ### **Content & Version Management**
-- GitPod 
-- Github 
-- Heroku
+![GitPod](https://img.shields.io/static/v1?label=GitPod&message=🌙&style=flat&color=1AA6E4&logo=gitpod)
+![Github](https://img.shields.io/static/v1?label=GitHub&message=🪐&style=flat&color=181717&logo=github)
+![Heroku](https://img.shields.io/static/v1?label=Heroku&message=👽&style=flat&color=430098&logo=heroku)
 
 ### **E-commmerce**
-- Upcoming...
+Upcoming...
 
 ### **UX & Design**
-- Bootstrap 
-- MaterialDesign
+![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=🎨&style=flat&color=563D7C&logo=bootstrap)
+![MaterialDesign](https://img.shields.io/static/v1?label=MaterialDesign&message=🎨&style=flat&color=757575&logo=material-design)
 
 ### **Main Projects**
 - **Milestone 3** (Work in progress) - Wedding RSVP: [Repo](https://github.com/bizlett/wedding-rsvp) |  Website
