@@ -2,7 +2,7 @@
 
 ### I am a Junior Full Stack Developer, currently working on my pen-ultimate project at Code Institute. 
 
-📚 Currently immersing myself in the wonderful world of Coding! I am building a wedding website with RSVP application. Its a full static website and REST API using Python, Flask, HTML, CSS, JQuery and MongoDB
+📚 I am currently building a wedding website with RSVP application. Its a full static website and REST API using Python, Flask, HTML, CSS, JQuery and MongoDB
 
 👀 I’m interested in full stack development overall. Developing new interests as I learn!
 
