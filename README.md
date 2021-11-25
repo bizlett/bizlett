@@ -1,8 +1,50 @@
-- 👋 Hi, I’m @bizlett
-- 👀 I’m interested in full stack development overall. Developing new interests as I learn!
-- 🌱 I’m currently learning HTML/CSS as part of my Diploma in Web Development with Code Institute.
-- 💞️ I’m looking to collaborate when I'm bit more along in my journey. Watch this space!
-- 📫 How to reach me: here!
+# Hi! My name is Bizzy 👋
+
+### I am a Junior Full Stack Developer, currently working on my pen-ultimate project at Code Institute. 
+
+📚 Currently immersing myself in the wonderful world of Coding! I am building a wedding website with RSVP application. Its a full static website and REST API using Python, Flask, HTML, CSS, JQuery and MongoDB
+
+👀 I’m interested in full stack development overall. Developing new interests as I learn!
+
+⛰️ Getting out to the Welsh mountains, walking and wild camping with my husband
+
+🏊‍♀️ Heading to shore for a sunrise swim is how I start the day
+
+🍽️ Meals out are how I like to unwind - the more unusual the food, the better!
+
+📫 How to reach me: here!
+
+### **Languages**
+- HTML 
+- CSS 
+- Javascript 
+- Python
+
+### **Libraries & Frameworks**
+- Flask 
+- Django 
+- JQuery
+
+### **Databases**
+- MongoDB 
+- MySQL
+
+### **Content & Version Management**
+- GitPod 
+- Github 
+- Heroku
+
+### **E-commmerce**
+- Upcoming...
+
+### **UX & Design**
+- Bootstrap 
+- MaterialDesign
+
+### **Main Projects**
+- **Milestone 3** (Work in progress) - Wedding RSVP: [Repo](https://github.com/bizlett/wedding-rsvp) |  Website
+- **Milestone 2** - watcha Movie Search: [Repo](https://github.com/bizlett/watcha-movie-search) | [Website](https://bizlett.github.io/watcha-movie-search/)
+- **Milestone 1** - Faze the Movie: [Repo](https://github.com/bizlett/faze-movie) | [Website](https://bizlett.github.io/faze-movie/)
 
 <!---
 bizlett/bizlett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
