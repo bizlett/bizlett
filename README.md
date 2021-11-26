@@ -12,7 +12,7 @@
 
 🍽️ Meals out are how I like to unwind - the more unusual the food, the better!
 
-📫 How to reach me: message me here or head on over to my LinkedIn (link in my profile!)
+📫 How to reach me: message me here or head on over to my [LinkedIn](https://www.linkedin.com/in/bizzyday/)
 
 ### **Languages**
 ![HTML](https://img.shields.io/static/v1?label=HTML&message=5&style=flat&color=E34F26&logo=html5)
