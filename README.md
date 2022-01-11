@@ -42,7 +42,7 @@ Upcoming...
 ![MaterialDesign](https://img.shields.io/static/v1?label=MaterialDesign&message=🎨&style=flat&color=757575&logo=material-design)
 
 ### **Main Projects**
-- **Milestone 3** (Work in progress) - Wedding RSVP: [Repo](https://github.com/bizlett/wedding-rsvp) |  Website
+- **Milestone 3** (Work in progress) - Wedding RSVP: [Repo](https://github.com/bizlett/wedding-rsvp) |  [Website](http://wedding-rsvp-bizzy.herokuapp.com/)
 - **Milestone 2** - watcha Movie Search: [Repo](https://github.com/bizlett/watcha-movie-search) | [Website](https://bizlett.github.io/watcha-movie-search/)
 - **Milestone 1** - Faze the Movie: [Repo](https://github.com/bizlett/faze-movie) | [Website](https://bizlett.github.io/faze-movie/)
 
