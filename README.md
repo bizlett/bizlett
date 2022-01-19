@@ -1,6 +1,6 @@
 # Hi! My name is Bizzy 👋
 
-### I am a Junior Full Stack Developer, currently working on my penultimate project at Code Institute. 
+### I am a Junior Full Stack Developer, currently working on my final project at Code Institute. 
 
 📚 I am currently building a wedding website with RSVP application. Its a full static website and REST API using Python, Flask, HTML, CSS, JQuery and MongoDB
 
