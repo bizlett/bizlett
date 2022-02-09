@@ -2,15 +2,13 @@
 
 ### I am a Junior Full Stack Developer, currently working on my final project at Code Institute. 
 
-📚 I am currently building a wedding website with RSVP application. Its a full static website and REST API using Python, Flask, HTML, CSS, JQuery and MongoDB
+📚 Last project I built was a wedding website with RSVP application. Its a full static website and REST API using Python, Flask, HTML, CSS, JQuery and MongoDB. Link below...
 
 👀 I’m interested in full stack development overall. Developing new interests as I learn!
 
 🏊‍♀️ Heading to shore for a sunrise swim is how I start the day
 
-⛰️ Nothing better to clear my head than getting out to the Welsh mountains, walking and wild camping with my husband
-
-🍽️ Meals out are how I like to unwind - the more unusual the food, the better!
+⛰️ Nothing better to clear my head than getting out to the Welsh mountains, walking and wild camping
 
 📫 How to reach me: message me here or head on over to my [LinkedIn](https://www.linkedin.com/in/bizzyday/)
 
